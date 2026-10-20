@@ -1,0 +1,42 @@
+[
+ {
+  "id": "TBC-1",
+  "brand": "HP",
+  "model": "EliteBook 840 G8",
+  "cpu": "Intel Core i5",
+  "ram": 8,
+  "storage": 256,
+  "stype": "SSD",
+  "screen": "",
+  "touch": 1,
+  "use": [
+   "work",
+   "study"
+  ],
+  "cond": "",
+  "price": 1450000,
+  "status": "",
+  "verified": false,
+  "notes": "Windows 11."
+ },
+ {
+  "id": "TBC-2",
+  "brand": "Lenovo",
+  "model": "ThinkPad T490",
+  "cpu": "Intel Core i5",
+  "ram": 16,
+  "storage": 256,
+  "stype": "SSD",
+  "screen": "14 in Full HD",
+  "touch": 0,
+  "use": [
+   "work",
+   "study"
+  ],
+  "cond": "",
+  "price": 1400000,
+  "status": "",
+  "verified": false,
+  "notes": "Business-class ThinkPad."
+ }
+]
